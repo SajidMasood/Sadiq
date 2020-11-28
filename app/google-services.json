@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "667905754124",
+    "firebase_url": "https://myapplication-68735.firebaseio.com",
+    "project_id": "myapplication-68735",
+    "storage_bucket": "myapplication-68735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667905754124:android:16bd77211ed854a34a9a29",
+        "android_client_info": {
+          "package_name": "com.nayyab.pdfmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667905754124-necjpb4skl6guuam5uumgknl8ogh2h0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwXttOqHxQbaDjRFNKA5JvvdrbAotgKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667905754124-necjpb4skl6guuam5uumgknl8ogh2h0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667905754124:android:c3577cab329ecbb54a9a29",
+        "android_client_info": {
+          "package_name": "com.nayyab.tech.Templete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667905754124-necjpb4skl6guuam5uumgknl8ogh2h0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwXttOqHxQbaDjRFNKA5JvvdrbAotgKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667905754124-necjpb4skl6guuam5uumgknl8ogh2h0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667905754124:android:d7ce7977259451584a9a29",
+        "android_client_info": {
+          "package_name": "com.nayyab.tech.computersciencemcqs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667905754124-necjpb4skl6guuam5uumgknl8ogh2h0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcwXttOqHxQbaDjRFNKA5JvvdrbAotgKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667905754124-necjpb4skl6guuam5uumgknl8ogh2h0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
